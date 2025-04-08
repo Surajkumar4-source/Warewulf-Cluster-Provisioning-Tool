@@ -34,7 +34,6 @@ Warewulf follows a **master-client** architecture, where a **master node** manag
 <br>
 
 
-
 # **Warewulf: Step-by-Step Implementation Guide** 🚀  
 
 This guide provides a **detailed implementation** of Warewulf, covering **prerequisites, installation, configuration, and deployment** of compute nodes in an HPC cluster.  
